@@ -39,16 +39,27 @@ This repository is intended for:
 ```text
 Blind-75-python/
 ├── README.md
-├──-|
-│   ├── arrays/
-│   ├── strings/
-│   ├── trees/
-│   ├── graphs/
-│   ├── dp/
-│   └── ...
+├── Arrays and Hashing/
+├── Stacks/
+└── Two pointers/
 ```
 
-> The exact folder layout may evolve as more problems are added.
+## Available Solutions
+
+### Arrays and Hashing
+
+- [Contains Duplicate](<./Arrays and Hashing/contains_duplicate.py>)
+- [Group Anagrams](<./Arrays and Hashing/group_anagram.py>)
+- [Two Sum](<./Arrays and Hashing/two_sum.py>)
+- [Valid Anagram](<./Arrays and Hashing/valid_anagram.py>)
+
+### Stacks
+
+- [Valid Parentheses](<./Stacks/valid_parantheses.py>)
+
+### Two Pointers
+
+- [Valid Palindrome](<./Two pointers/valid_palindrom.py>)
 
 ## Getting Started
 
