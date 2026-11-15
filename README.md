@@ -40,8 +40,10 @@ This repository is intended for:
 Blind-75-python/
 ├── README.md
 ├── Arrays and Hashing/
+├── Linked lists/
 ├── Stacks/
-└── Two pointers/
+├── Two pointers/
+└── ...
 ```
 
 ## Available Solutions
@@ -53,6 +55,11 @@ Blind-75-python/
 - [Two Sum](<./Arrays and Hashing/two_sum.py>)
 - [Valid Anagram](<./Arrays and Hashing/valid_anagram.py>)
 
+### Linked Lists
+
+- [Linked List Cycle](<./Linked lists/linked_list_cycle.py>)
+- [Reverse Linked List](<./Linked lists/reverse_a_linked_list.py>)
+
 ### Stacks
 
 - [Valid Parentheses](<./Stacks/valid_parantheses.py>)
@@ -60,6 +67,10 @@ Blind-75-python/
 ### Two Pointers
 
 - [Valid Palindrome](<./Two pointers/valid_palindrom.py>)
+
+### Math and Geometry
+
+- Coming soon
 
 ## Getting Started
 
