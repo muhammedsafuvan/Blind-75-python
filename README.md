@@ -70,7 +70,9 @@ Blind-75-python/
 
 ### Math and Geometry
 
-- Coming soon
+- [Rotate Image](<./Math and Geometry/rotate_image.py>)
+- [Set Matrix Zeroes](<./Math and Geometry/set_matrix_zeros.py>)
+- [Spiral Matrix](<./Math and Geometry/spiral_matrix.py>)
 
 ## Getting Started
 
